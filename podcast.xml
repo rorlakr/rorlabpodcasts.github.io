@@ -21,6 +21,7 @@ layout: nil
     <itunes:image href="{{ site.podcast.image }}" />
     <itunes:category text="Technology" />
     <itunes:category text="Education" />
+    <itunes:explicit>clean</itunes:explicit>
     {% for post in site.posts %}
     <item>
       <title><![CDATA[{{ post.title }}]]></title>
