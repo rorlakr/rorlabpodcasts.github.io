@@ -3,13 +3,13 @@ lsi: false
 pygments: true
 name: "RORLab Podcast"
 description: A podcast RORLab
-url: http://rorlab.org/
+url: http://rorlabpodcasts.github.io/
+rorlab_url: http://rorlab.org/
 sns: 
   twitter: https://twitter.com/rorlab
   facebook: https://www.facebook.com/groups/rubyonrailskorea
 podcast:
-  feed_url: /podcast.xml
-  itunes: http://rorlab.org/podcast.xml
+  feed_url: http://rorlabpodcasts.github.io/podcast.xml
   copyright: 2013 RORLab
   author: "HyoSung Choi & ChangHoon Jeong"
   keyword: "podcast,tech,rorlab,ruby,rails,ror,web,design"
@@ -17,4 +17,4 @@ podcast:
   owner_name: ChangHoon Jeong
   owner_email: iamseapy@gmail.com
   description: "A podcast from RORLab, Ruby On Rails for newbie."
-  image: https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb
+  image: http://rorlabpodcasts.github.io/images/rorlab_logo.png

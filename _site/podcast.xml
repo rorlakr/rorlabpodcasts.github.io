@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title><![CDATA[RORLab Podcast]]></title>
-    <link>http://rorlab.org/</link>
+    <link>http://rorlabpodcasts.github.io/</link>
     <language>ko</language>
     <copyright><![CDATA[RORLab Podcast]]></copyright>
     <itunes:subtitle><![CDATA[Ruby On Rails Screencast]]></itunes:subtitle>
@@ -14,10 +14,10 @@
       <itunes:name>ChangHoon Jeong</itunes:name>
       <itunes:email>iamseapy@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+    <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
     <itunes:category text="Technology" />
     <itunes:category text="Education" />
-    <itunes:new-feed-url>/podcast.xml</itunes:new-feed-url>
+    <itunes:new-feed-url>http://rorlabpodcasts.github.io/podcast.xml</itunes:new-feed-url>
     
     <item>
       <title><![CDATA[ROR Lab 49-2: Rails with MongoDB (3)]]></title>
@@ -31,7 +31,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=wf0m4-pbfBs'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/51'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab49/rorlab-49-2.mp4" length="340204338" type="video/mp4" />
       <guid isPermaLink="false">/2013/11/05/rorlab-49-2</guid>
       <pubDate>Tue, 05 Nov 2013 00:00:00 GMT</pubDate>
@@ -51,7 +51,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=pLKgW11wszI'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/51'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab49/rorlab-49-1.mp4" length="339380258" type="video/mp4" />
       <guid isPermaLink="false">/2013/11/05/rorlab-49-1</guid>
       <pubDate>Tue, 05 Nov 2013 00:00:00 GMT</pubDate>
@@ -71,7 +71,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=7wqgGjPcs0s'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/50'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab48/rorlab-48-2.mp4" length="233422100" type="video/mp4" />
       <guid isPermaLink="false">/2013/10/22/rorlab-48-2</guid>
       <pubDate>Tue, 22 Oct 2013 00:00:00 GMT</pubDate>
@@ -91,7 +91,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=FEQx6DtED7E'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/50'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab48/rorlab-48-1.mp4" length="430267562" type="video/mp4" />
       <guid isPermaLink="false">/2013/10/22/rorlab-48-1</guid>
       <pubDate>Tue, 22 Oct 2013 00:00:00 GMT</pubDate>
@@ -111,7 +111,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=d_R1uL6IzSM'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/49'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab47/rorlab-47.mp4" length="474194646" type="video/mp4" />
       <guid isPermaLink="false">/2013/10/08/rorlab-47</guid>
       <pubDate>Tue, 08 Oct 2013 00:00:00 GMT</pubDate>
@@ -131,7 +131,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=zYCIt5RMD9g'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/48'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab46/rorlab-46-2.mp4" length="478399232" type="video/mp4" />
       <guid isPermaLink="false">/2013/09/24/rorlab-46-2</guid>
       <pubDate>Tue, 24 Sep 2013 00:00:00 GMT</pubDate>
@@ -151,7 +151,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=V4dc2Pg9xFI'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/48'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab46/rorlab-46-1.mp4" length="350159044" type="video/mp4" />
       <guid isPermaLink="false">/2013/09/24/rorlab-46-1</guid>
       <pubDate>Tue, 24 Sep 2013 00:00:00 GMT</pubDate>
@@ -171,7 +171,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=VXb_YWPehBo'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/47'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab45/rorlab-45.mp4" length="292417592" type="video/mp4" />
       <guid isPermaLink="false">/2013/09/10/rorlab-45</guid>
       <pubDate>Tue, 10 Sep 2013 00:00:00 GMT</pubDate>
@@ -191,7 +191,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=va4pxpjKnDA'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/46'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab44/rorlab-44.mp4" length="329715014" type="video/mp4" />
       <guid isPermaLink="false">/2013/08/26/rorlab-44</guid>
       <pubDate>Mon, 26 Aug 2013 00:00:00 GMT</pubDate>
@@ -211,7 +211,7 @@
   <a class='btn btn-default btn-xs' href=''>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/45'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="" length="" type="video/mp4" />
       <guid isPermaLink="false">/2013/08/13/rorlab-43</guid>
       <pubDate>Tue, 13 Aug 2013 00:00:00 GMT</pubDate>
@@ -231,7 +231,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=MVfK6GufrrY'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/44'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab42/rorlab-42.mp4" length="292717617" type="video/mp4" />
       <guid isPermaLink="false">/2013/07/30/rorlab-42</guid>
       <pubDate>Tue, 30 Jul 2013 00:00:00 GMT</pubDate>
@@ -251,7 +251,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=KA3Znp4dEGc'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/43'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab41/rorlab-41.mp4" length="353405196" type="video/mp4" />
       <guid isPermaLink="false">/2013/07/16/rorlab-41</guid>
       <pubDate>Tue, 16 Jul 2013 00:00:00 GMT</pubDate>
@@ -271,7 +271,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=t14Yj1qfQVI'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/42'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab40/rorlab-40.mp4" length="389528200" type="video/mp4" />
       <guid isPermaLink="false">/2013/07/02/rorlab-40</guid>
       <pubDate>Tue, 02 Jul 2013 00:00:00 GMT</pubDate>
@@ -291,7 +291,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=XrLfuPWmnP4'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/41'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab39/rorlab-39.mp4" length="382862864" type="video/mp4" />
       <guid isPermaLink="false">/2013/06/17/rorlab-39</guid>
       <pubDate>Mon, 17 Jun 2013 00:00:00 GMT</pubDate>
@@ -311,7 +311,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=RdmPHtfy80M'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/40'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab38/rorlab-38.mp4" length="223252104" type="video/mp4" />
       <guid isPermaLink="false">/2013/06/04/rorlab-38</guid>
       <pubDate>Tue, 04 Jun 2013 00:00:00 GMT</pubDate>
@@ -331,7 +331,7 @@
   <a class='btn btn-default btn-xs' href=''>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/39'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="" length="" type="video/mp4" />
       <guid isPermaLink="false">/2013/05/25/rorlab-37</guid>
       <pubDate>Sat, 25 May 2013 00:00:00 GMT</pubDate>
@@ -351,7 +351,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=2qAiBc23swE'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/38'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab36/rorlab-36-2.mp4" length="374395342" type="video/mp4" />
       <guid isPermaLink="false">/2013/05/06/rorlab-36-2</guid>
       <pubDate>Mon, 06 May 2013 00:00:00 GMT</pubDate>
@@ -371,7 +371,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=t497x6WLPY4'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/38'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab36/rorlab-36-1.mp4" length="89499842" type="video/mp4" />
       <guid isPermaLink="false">/2013/05/06/rorlab-36-1</guid>
       <pubDate>Mon, 06 May 2013 00:00:00 GMT</pubDate>
@@ -391,7 +391,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=flquz6M4Xu0'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/37'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab35/rorlab-35-2.mp4" length="73383739" type="video/mp4" />
       <guid isPermaLink="false">/2013/04/25/rorlab-35-2</guid>
       <pubDate>Thu, 25 Apr 2013 00:00:00 GMT</pubDate>
@@ -411,7 +411,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=Yz_5Jr2Ugtk'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/37'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab35/rorlab-35-1.mp4" length="66696974" type="video/mp4" />
       <guid isPermaLink="false">/2013/04/25/rorlab-35-1</guid>
       <pubDate>Thu, 25 Apr 2013 00:00:00 GMT</pubDate>
@@ -431,7 +431,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=aFqHUktS2ns'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/36'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab34/rorlab-34.mp4" length="178040789" type="video/mp4" />
       <guid isPermaLink="false">/2013/04/13/rorlab-34</guid>
       <pubDate>Sat, 13 Apr 2013 00:00:00 GMT</pubDate>
@@ -451,7 +451,7 @@
   <a class='btn btn-default btn-xs' href=''>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/35'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="" length="" type="video/mp4" />
       <guid isPermaLink="false">/2013/03/30/rorlab-33</guid>
       <pubDate>Sat, 30 Mar 2013 00:00:00 GMT</pubDate>
@@ -471,7 +471,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=sT2-8mwo-2U'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/34'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab32/rorlab-32-2.mp4" length="287589045" type="video/mp4" />
       <guid isPermaLink="false">/2013/03/16/rorlab-32-2</guid>
       <pubDate>Sat, 16 Mar 2013 00:00:00 GMT</pubDate>
@@ -491,7 +491,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=lBnO2xvwO0k'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/34'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab32/rorlab-32-1.mp4" length="45860032" type="video/mp4" />
       <guid isPermaLink="false">/2013/03/16/rorlab-32-1</guid>
       <pubDate>Sat, 16 Mar 2013 00:00:00 GMT</pubDate>
@@ -511,7 +511,7 @@
   <a class='btn btn-default btn-xs' href=''>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/33'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="" length="" type="video/mp4" />
       <guid isPermaLink="false">/2013/03/02/rorlab-31</guid>
       <pubDate>Sat, 02 Mar 2013 00:00:00 GMT</pubDate>
@@ -531,7 +531,7 @@
   <a class='btn btn-default btn-xs' href=''>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/32'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="" length="" type="video/mp4" />
       <guid isPermaLink="false">/2013/02/17/rorlab-30</guid>
       <pubDate>Sun, 17 Feb 2013 00:00:00 GMT</pubDate>
@@ -551,7 +551,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=WCbhc3jwgFc'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/31'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab29/rorlab-29.mp4" length="333980855" type="video/mp4" />
       <guid isPermaLink="false">/2013/02/02/rorlab-29</guid>
       <pubDate>Sat, 02 Feb 2013 00:00:00 GMT</pubDate>
@@ -571,7 +571,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=akRgHYUpFxc'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/30'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab28/rorlab-28.mp4" length="239616680" type="video/mp4" />
       <guid isPermaLink="false">/2013/01/12/rorlab-28</guid>
       <pubDate>Sat, 12 Jan 2013 00:00:00 GMT</pubDate>
@@ -591,7 +591,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=Lrf7D_qaAUo'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/29'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab27/rorlab-27.mp4" length="263923701" type="video/mp4" />
       <guid isPermaLink="false">/2012/12/29/rorlab-27</guid>
       <pubDate>Sat, 29 Dec 2012 00:00:00 GMT</pubDate>
@@ -611,7 +611,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=zaMllTj6cM8'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/28'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab26/rorlab-26.mp4" length="144197169" type="video/mp4" />
       <guid isPermaLink="false">/2012/12/15/rorlab-26</guid>
       <pubDate>Sat, 15 Dec 2012 00:00:00 GMT</pubDate>
@@ -631,7 +631,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=XiuAzMpaKq8'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/27'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab25/rorlab-25.mp4" length="241227030" type="video/mp4" />
       <guid isPermaLink="false">/2012/12/01/rorlab-25</guid>
       <pubDate>Sat, 01 Dec 2012 00:00:00 GMT</pubDate>
@@ -651,7 +651,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=4_7KasTZjXY'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/26'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab24/rorlab-24.mp4" length="186279898" type="video/mp4" />
       <guid isPermaLink="false">/2012/11/17/rorlab-24</guid>
       <pubDate>Sat, 17 Nov 2012 00:00:00 GMT</pubDate>
@@ -671,7 +671,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=V4B4pxjheog'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/25'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab23/rorlab-23.mp4" length="478847987" type="video/mp4" />
       <guid isPermaLink="false">/2012/11/03/rorlab-23</guid>
       <pubDate>Sat, 03 Nov 2012 00:00:00 GMT</pubDate>
@@ -691,7 +691,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=bgYl-_yYJlo'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/23'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab22/rorlab-22.mp4" length="249374128" type="video/mp4" />
       <guid isPermaLink="false">/2012/10/20/rorlab-22</guid>
       <pubDate>Sat, 20 Oct 2012 00:00:00 GMT</pubDate>
@@ -711,7 +711,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=HQQKXTjZbG8'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/22'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab21/rorlab-21.mp4" length="334301507" type="video/mp4" />
       <guid isPermaLink="false">/2012/10/06/rorlab-21</guid>
       <pubDate>Sat, 06 Oct 2012 00:00:00 GMT</pubDate>
@@ -731,7 +731,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=dBH-GXFzwfs'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/21'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="rorlab-20-2.mp4" length="337688055" type="video/mp4" />
       <guid isPermaLink="false">/2012/09/15/rorlab-20-2</guid>
       <pubDate>Sat, 15 Sep 2012 00:00:00 GMT</pubDate>
@@ -751,7 +751,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=cp6pSZlUpuA'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/21'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="rorlab-20-1.mp4" length="276832855" type="video/mp4" />
       <guid isPermaLink="false">/2012/09/15/rorlab-20-1</guid>
       <pubDate>Sat, 15 Sep 2012 00:00:00 GMT</pubDate>
@@ -771,7 +771,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=A3G2GTu3P3o'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/20'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="rorlab-19.mp4" length="249251026" type="video/mp4" />
       <guid isPermaLink="false">/2012/09/01/rorlab-19</guid>
       <pubDate>Sat, 01 Sep 2012 00:00:00 GMT</pubDate>
@@ -791,7 +791,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=5xNyzlqxkkM'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/19'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="rorlab-18.mp4" length="657751765" type="video/mp4" />
       <guid isPermaLink="false">/2012/08/18/rorlab-18</guid>
       <pubDate>Sat, 18 Aug 2012 00:00:00 GMT</pubDate>
@@ -811,7 +811,7 @@
   <a class='btn btn-default btn-xs' href='http://youtube.com/watch?v=VnnbTxtVMQo'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/18'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="rorlab-17.mp4" length="337186538" type="video/mp4" />
       <guid isPermaLink="false">/2012/07/21/rorlab-17</guid>
       <pubDate>Sat, 21 Jul 2012 00:00:00 GMT</pubDate>
@@ -831,7 +831,7 @@
   <a class='btn btn-default btn-xs' href='http://youtube.com/watch?v=KaLkmaPfhvY'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/17'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="rorlab-16-3.mp4" length="99113445" type="video/mp4" />
       <guid isPermaLink="false">/2012/07/07/rorlab-16-3</guid>
       <pubDate>Sat, 07 Jul 2012 00:00:00 GMT</pubDate>
@@ -869,7 +869,7 @@
   <a class='btn btn-default btn-xs' href='http://youtube.com/watch?v=rbHCeMBKOkM'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/17'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="rorlab-16-2.mp4" length="94328993" type="video/mp4" />
       <guid isPermaLink="false">/2012/07/07/rorlab-16-2</guid>
       <pubDate>Sat, 07 Jul 2012 00:00:00 GMT</pubDate>
@@ -889,7 +889,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=f8d5epSWF-o'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/17'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="rorlab-16-1.mp4" length="132808339" type="video/mp4" />
       <guid isPermaLink="false">/2012/07/07/rorlab-16-1</guid>
       <pubDate>Sat, 07 Jul 2012 00:00:00 GMT</pubDate>
@@ -909,7 +909,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=Yo8DHY7UBQM'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/16'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="rorlab-15-2.mp4" length="127256618" type="video/mp4" />
       <guid isPermaLink="false">/2012/06/23/rorlab-15-2</guid>
       <pubDate>Sat, 23 Jun 2012 00:00:00 GMT</pubDate>
@@ -929,7 +929,7 @@
   <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=JFbK_8uiMgM'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/16'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="rorlab-15-1.mp4" length="269932890" type="video/mp4" />
       <guid isPermaLink="false">/2012/06/23/rorlab-15-1</guid>
       <pubDate>Sat, 23 Jun 2012 00:00:00 GMT</pubDate>
@@ -947,7 +947,7 @@
       <description><![CDATA[<p>Rails Routing from the Outside In (2)</p><p>14회차는 동영상이 없습니다</p><p>제14회를 끝으로 Season 1 ROR Lab. Biweekly Lecture 과정을 종료합니다. 이제 Season 2 가 기존의 가이드 강의와 함께 보다 알찬 내용으로 시작할 예정입니다.</p><p>발표자료 : <a href='http://www.slideshare.net/hyoseongchoi/routing-2'>http://www.slideshare.net/hyoseongchoi/routing-2</a></p><div class='btn-group'>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/15'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="" length="" type="" />
       <guid isPermaLink="false">/2012/06/09/rorlab-14</guid>
       <pubDate>Sat, 09 Jun 2012 00:00:00 GMT</pubDate>
@@ -965,7 +965,7 @@
       <description><![CDATA[<p>Rails Routing from the Outside In (1)</p><p>13회차는 동영상이 없습니다</p><p>발표자료 : <a href='http://www.slideshare.net/hyoseongchoi/routing-1'>http://www.slideshare.net/hyoseongchoi/routing-1</a></p><div class='btn-group'>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/14'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="" length="" type="" />
       <guid isPermaLink="false">/2012/05/26/rorlab-13</guid>
       <pubDate>Sat, 26 May 2012 00:00:00 GMT</pubDate>
@@ -983,7 +983,7 @@
       <description><![CDATA[<p>Action Controller Overview</p><p>12회차는 동영상이 없습니다</p><p>발표자료 : <a href='http://www.slideshare.net/hyoseongchoi/action-controller-overview'>http://www.slideshare.net/hyoseongchoi/action-controller-overview</a></p><div class='btn-group'>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/13'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="" length="" type="" />
       <guid isPermaLink="false">/2012/05/12/rorlab-12</guid>
       <pubDate>Sat, 12 May 2012 00:00:00 GMT</pubDate>
@@ -1001,7 +1001,7 @@
       <description><![CDATA[<p>Action View Form Helpers</p><p>11회차는 동영상이 없습니다</p><p>발표자료 : <a href='http://www.slideshare.net/hyoseongchoi/active-record-form-helpers'>http://www.slideshare.net/hyoseongchoi/active-record-form-helpers</a></p><div class='btn-group'>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/11'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="" length="" type="" />
       <guid isPermaLink="false">/2012/04/21/rorlab-11</guid>
       <pubDate>Sat, 21 Apr 2012 00:00:00 GMT</pubDate>
@@ -1021,7 +1021,7 @@
   <a class='btn btn-default btn-xs' href='http://youtube.com/watch?v=nYa5GDNN8-c'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/10'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab10/rorlab-10.mp4" length="94769029" type="video/mp4" />
       <guid isPermaLink="false">/2012/04/07/rorlab-10</guid>
       <pubDate>Sat, 07 Apr 2012 00:00:00 GMT</pubDate>
@@ -1041,7 +1041,7 @@
   <a class='btn btn-default btn-xs' href='http://youtube.com/watch?v=qXJz3Rf19qU'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/9'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab9/rorlab-9.mp4" length="317917656" type="video/mp4" />
       <guid isPermaLink="false">/2012/03/17/rorlab-9</guid>
       <pubDate>Sat, 17 Mar 2012 00:00:00 GMT</pubDate>
@@ -1061,7 +1061,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=bXDi2tsHKoU'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/8'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab8/rorlab-8.mp4" length="353039079" type="video/mp4" />
       <guid isPermaLink="false">/2012/03/03/rorlab-8</guid>
       <pubDate>Sat, 03 Mar 2012 00:00:00 GMT</pubDate>
@@ -1081,7 +1081,7 @@
   <a class='btn btn-default btn-xs' href='http://youtube.com/watch?v=hoWX7qlV0LY'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/7'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab7/rorlab-7.mp4" length="398681524" type="video/mp4" />
       <guid isPermaLink="false">/2012/02/18/rorlab-7</guid>
       <pubDate>Sat, 18 Feb 2012 00:00:00 GMT</pubDate>
@@ -1101,7 +1101,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=Exxyp2Eg6qA'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/6'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab6/rorlab-6.mp4" length="311381609" type="video/mp4" />
       <guid isPermaLink="false">/2012/02/04/rorlab-6</guid>
       <pubDate>Sat, 04 Feb 2012 00:00:00 GMT</pubDate>
@@ -1121,7 +1121,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=LDHrE1VBccg'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/5'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab5/rorlab-5-2.mp4" length="174027828" type="video/mp4" />
       <guid isPermaLink="false">/2012/01/14/rorlab-5-2</guid>
       <pubDate>Sat, 14 Jan 2012 00:00:00 GMT</pubDate>
@@ -1141,7 +1141,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=BfTzRwsk_Bg'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/5'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab5/rorlab-5-1.mp4" length="378161440" type="video/mp4" />
       <guid isPermaLink="false">/2012/01/14/rorlab-5-1</guid>
       <pubDate>Sat, 14 Jan 2012 00:00:00 GMT</pubDate>
@@ -1161,7 +1161,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=kbKQ6aBUGA0'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/4'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab4/rorlab-4-2.mp4" length="301024445" type="video/mp4" />
       <guid isPermaLink="false">/2012/01/07/rorlab-4-2</guid>
       <pubDate>Sat, 07 Jan 2012 00:00:00 GMT</pubDate>
@@ -1181,7 +1181,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=SU6k2-b-jSM'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/4'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab4/rorlab-4-1.mp4" length="300579229" type="video/mp4" />
       <guid isPermaLink="false">/2012/01/07/rorlab-4-1</guid>
       <pubDate>Sat, 07 Jan 2012 00:00:00 GMT</pubDate>
@@ -1201,7 +1201,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=iXDV9Q_7Sbg'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/3'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab3/rorlab-3-5.mp4" length="175843293" type="video/mp4" />
       <guid isPermaLink="false">/2011/12/10/rorlab-3-5</guid>
       <pubDate>Sat, 10 Dec 2011 00:00:00 GMT</pubDate>
@@ -1221,7 +1221,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=TmHNDBMH2F4'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/3'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab3/rorlab-3-4.mp4" length="189564374" type="video/mp4" />
       <guid isPermaLink="false">/2011/12/10/rorlab-3-4</guid>
       <pubDate>Sat, 10 Dec 2011 00:00:00 GMT</pubDate>
@@ -1241,7 +1241,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=X8H6ZEi52O8'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/3'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab3/rorlab-3-3.mp4" length="162085899" type="video/mp4" />
       <guid isPermaLink="false">/2011/12/10/rorlab-3-3</guid>
       <pubDate>Sat, 10 Dec 2011 00:00:00 GMT</pubDate>
@@ -1261,7 +1261,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=6vCx3EF_W2M'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/3'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab3/rorlab-3-2.mp4" length="147658263" type="video/mp4" />
       <guid isPermaLink="false">/2011/12/10/rorlab-3-2</guid>
       <pubDate>Sat, 10 Dec 2011 00:00:00 GMT</pubDate>
@@ -1281,7 +1281,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=guLS_lawPeA'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/3'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab3/rorlab-3-1.mp4" length="208387286" type="video/mp4" />
       <guid isPermaLink="false">/2011/12/10/rorlab-3-1</guid>
       <pubDate>Sat, 10 Dec 2011 00:00:00 GMT</pubDate>
@@ -1301,7 +1301,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=NePX1PxDjAc'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/2'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab2/rorlab-2-4.mp4" length="54508991" type="video/mp4" />
       <guid isPermaLink="false">/2011/11/26/rorlab-2-4</guid>
       <pubDate>Sat, 26 Nov 2011 00:00:00 GMT</pubDate>
@@ -1321,7 +1321,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=l8FeKYIlcE4'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/2'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab2/rorlab-2-3.mp4" length="86112559" type="video/mp4" />
       <guid isPermaLink="false">/2011/11/26/rorlab-2-3</guid>
       <pubDate>Sat, 26 Nov 2011 00:00:00 GMT</pubDate>
@@ -1341,7 +1341,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=K035P9AFuJU'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/2'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab2/rorlab-2-2.mp4" length="60736812" type="video/mp4" />
       <guid isPermaLink="false">/2011/11/26/rorlab-2-2</guid>
       <pubDate>Sat, 26 Nov 2011 00:00:00 GMT</pubDate>
@@ -1361,7 +1361,7 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=htHb4lcqztA'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/2'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
       <enclosure url="https://archive.org/download/Rorlab2/rorlab-2-1.mp4" length="57605555" type="video/mp4" />
       <guid isPermaLink="false">/2011/11/26/rorlab-2-1</guid>
       <pubDate>Sat, 26 Nov 2011 00:00:00 GMT</pubDate>
@@ -1381,8 +1381,8 @@
   <a class='btn btn-default btn-xs' href='http://www.youtube.com/watch?v=uoJrK8o2p08'>YouTube</a>
   <a class='btn btn-default btn-xs' href='http://rorlab.org/dry_labs/1'>RORLab</a>
 </div>]]></description>
-      <itunes:image href="https://0.gravatar.com/avatar/4e68f953e9af529c38a562f625a608fb" />
-      <enclosure url="https://archive.org/download/rorlab1/rorlab-1.mp4" length="84641489" type="video/mp4" />
+      <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
+      <enclosure url="http://archive.org/download/rorlab1/rorlab-1.mp4" length="84641489" type="video/mp4" />
       <guid isPermaLink="false">/2011/11/12/rorlab-1</guid>
       <pubDate>Sat, 12 Nov 2011 00:00:00 GMT</pubDate>
       <itunes:duration>36:55</itunes:duration>
