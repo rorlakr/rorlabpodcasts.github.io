@@ -19,8 +19,9 @@ layout: nil
       <itunes:email>{{ site.podcast.owner_email }}</itunes:email>
     </itunes:owner>
     <itunes:image href="{{ site.podcast.image }}" />
-    <itunes:category text="Technology" />
-    <itunes:category text="Education" />
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To" />
+    </itunes:category>
     <itunes:explicit>clean</itunes:explicit>
     {% for post in site.posts %}
     <item>

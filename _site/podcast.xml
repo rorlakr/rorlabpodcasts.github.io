@@ -15,8 +15,9 @@
       <itunes:email>iamseapy@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
-    <itunes:category text="Technology" />
-    <itunes:category text="Education" />
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To" />
+    </itunes:category>
     <itunes:explicit>clean</itunes:explicit>
     
     <item>
