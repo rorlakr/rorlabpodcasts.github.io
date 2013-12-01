@@ -1,0 +1,215 @@
+header.senbei {
+  margin-bottom: 30px;
+}
+body {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+/* Custom logo */
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  height:200px;
+  width:200px;
+}
+
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 700px;
+}
+.container-narrow > hr {
+  margin: 20px auto;
+  width: 50%;
+}
+
+.circle-permalink {
+  display:inline;
+}
+
+a.glyph-permalink {
+  text-decoration: none;
+  color: #808080;
+  font-size: 130%;
+  border: 0;
+  padding: 3px;
+  font-family: "Hiragino Kaku Gothic Pro", "Osaka", "Zapf Dingbats";
+}
+
+a.glyph-permalink:hover {
+  color: #FF0000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 25px;
+
+}
+
+p{
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.post-card {
+  padding: 12px 14px;
+  border-radius: 6px;
+  font-size: 17px;
+  font-weight: 200;
+  line-height: 30px;
+}
+
+.post-card img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #696969;
+  max-height: 600px;
+}
+
+li {
+line-height: 30px;
+margin-left: 10px;
+}
+
+ul, ol {
+padding: 0;
+margin: 0px;
+}
+/*.post-card:hover {
+  background: #f1f1f1;
+  padding: 12px 14px;
+  border-radius: 6px;
+}*/
+
+div.date {
+  text-align:center;
+  font-size: 75%;
+  color: #C0C0C0;
+  margin-bottom: 15px;
+}
+div.datepost {
+  text-align:center;
+  font-size: 110%;
+  color: #C0C0C0;
+  margin: 0px auto;
+}
+
+#tweet {
+  text-align:center;
+  margin:10px auto;
+}
+
+div.footer-more {
+  text-align: center;
+  font-size: 100%;
+}
+
+.footer-more > p {
+  margin-top: 10px;
+}
+
+div.tags {
+  margin: 50;
+}
+
+hr {
+margin: 20px auto;
+border: 0;
+border-top: 1px solid #eee;
+border-bottom: 1px solid #fff;
+width: 50%;
+}
+
+.centered-pills { text-align:center; }
+.centered-pills ul.nav-pills { display:inline-block; }
+.centered-pills li { display:inline; }
+.centered-pills a { float:left; }
+* html .centered-pills ul.nav-pills { display:inline; } /* IE6 */
+*+html .centered-pills ul.nav-pills { display:inline; } /* IE7 */
+
+.nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+     zoom:1; /* hasLayout ie7 trigger */
+}
+
+.nav-tabs, .nav-pills {
+    text-align:center;
+}
+
+/*.lead {
+  margin-top: 10px;
+  font-size: 17px;
+}
+
+.lead img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #696969;
+  max-height: 600px;
+}*/
+
+#bigtext {
+  font-size: 3.5em;
+  margin-top: 30px;
+}
+
+#bigsubtext {
+  max-width: 310px;
+  margin: 10px auto ;
+  text-align: center;
+}
+
+blockquote {
+  border-left: none;
+}
+
+blockquote p{
+padding: 0 0 0 15px;
+margin: 0 10px 20px;
+text-align: justify;
+border-left: 5px solid #08c;
+line-height: 30px;
+}
+
+div.footnotes > ol > li > p {
+  font-size: 13px;
+  margin: 0 auto;
+}
+
+.icon-twitter {
+  font-size: 45px;
+}
+
+.icon-twitter:hover {
+  text-decoration: none;
+}
+
+.icon-github {
+  font-size: 45px;
+  color: black;
+}
+
+.icon-github:hover {
+  text-decoration: none;
+}
+
+.icon-rocket {
+  font-size: 20px;
+  color: #E00000  ;
+}
+.icon-rocket:hover {
+  font-size: 25px;
+  color: red;
+  text-decoration: none;
+}

@@ -1,0 +1,41 @@
+---
+layout: nil
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title><![CDATA[{{ site.name }}]]></title>
+    <link>{{ site.url }}</link>
+    <language>ko</language>
+    <copyright><![CDATA[{{ site.name }}]]></copyright>
+    <itunes:subtitle><![CDATA[{{ site.podcast.subtitle }}]]></itunes:subtitle>
+    <itunes:author><![CDATA[{{ site.podcast.author }}]]></itunes:author>
+    <itunes:keywords><![CDATA[{{ site.podcast.keyword }}]]></itunes:keywords>
+    <itunes:summary><![CDATA[{{ site.podcast.keyword }}]]></itunes:summary>
+    <description><![CDATA[{{ site.podcast.description }}]]></description>
+    <itunes:owner>
+      <itunes:name>{{ site.podcast.owner_name }}</itunes:name>
+      <itunes:email>{{ site.podcast.owner_email }}</itunes:email>
+    </itunes:owner>
+    <itunes:image href="{{ site.podcast.image }}" />
+    <itunes:category text="Technology" />
+    <itunes:category text="Education" />
+    <itunes:new-feed-url>{{ site.podcast.feed_url }}</itunes:new-feed-url>
+    {% for post in site.posts %}
+    <item>
+      <title><![CDATA[{{ post.title }}]]></title>
+      <itunes:author><![CDATA[{{ post.author }}]]></itunes:author>
+      <itunes:subtitle><![CDATA[{{ post.title }}]]></itunes:subtitle>
+      <itunes:summary><![CDATA[{{ post.content }}]]></itunes:summary>
+      <description><![CDATA[{{ post.content }}]]></description>
+      <itunes:image href="{{ site.podcast.image }}" />
+      <enclosure url="{{ post.enclosure_url }}" length="{{ post.enclosure_bytes_size }}" type="{{ post.type }}" />
+      <guid isPermaLink="false">{{ post.id }}</guid>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+      <itunes:duration>{{ post.duration }}</itunes:duration>
+      <itunes:keywords><![CDATA[{{ site.podcast.keyword }}]]></itunes:keywords>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
