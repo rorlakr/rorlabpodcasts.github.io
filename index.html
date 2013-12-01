@@ -3,34 +3,19 @@ layout: default
 title: RORLab Podcast
 ---
 
-<ul class="container-narrow">
+<ul>
   {% for post in site.posts %}
-  <div class="post-card">
-    {% if post.link %}
-    <h1 style="text-align:center" ><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    {% endif %}
+    <div class="post">
+      <h3>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <small>{{ post.date | date:"%A, %e %B %Y" | upcase }}</small>
+      </h3>
 
-    <!-- for date -->
-    <div class="date">
-    {% capture post_date %}{{ post.date | date: "%Y%m%d" }}{% endcapture %}
-      {% if post_date != prev_post_date %}
-      {{ post.date | date:"%A, %e %B %Y" | upcase }}
-      {% endif %}
-    {% capture prev_post_date %}{{ post.date | date: "%Y%m%d" }}{% endcapture %}
-
-      <div class="circle-permalink">
-        <a class="glyph-permalink" href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">&gt;</a>
-      </div>
+      {{ post.content}}
     </div>
-          <!-- {{ post.content }} -->
-              {{ post.content}}
-            </div>
 
-            <!-- inbetween post -->
-            {% if forloop.last == false %}
-            </br>
-            <hr>
-            </br>
-            {% endif %}
+    {% if forloop.last == false %}
+    <hr>
+    {% endif %}
   {% endfor %}
 </ul>

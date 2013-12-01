@@ -16,37 +16,27 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.description }}" href="{{ site.podcast.feed_url }}">
   </head>
   <body>
-    <div class="container-narrow">
-      <header class="senbei">
-        <a href="/" title="Home">
-          <img id="logo" src="/images/rorlab_logo.png">
-        </a>
-        <div style="text-align:center">
-          <h1 id="bigtext">{{ site.name }}</h1>
-          <p id="bigsubtext">{{ site.description }}</p>
-            <ul class="nav nav-pills">
-              <li><a href="{{ site.sns.twitter }}" title="follow us">twitter</a></li>
-              <li><a href="{{ site.sns.facebook }}" title="facebook">facebook</a></li>
-              <li><a href="{{ site.url }}" title="rorlab">rorlab</a></li>
-              <li><a href="{{ site.podcast.feed_url }}" title="podcast">podcast</a></li>
-              <li><a href="{{ site.podcast.itunes }}" title="itunes">itunes</a></li>
-            </ul>
-        </div>
-        <hr>
-      </header>
-
-      {{ content }}
-
-      <hr>
-      <div class="footer-more">
-        <p>
-          Follow the RORLab
-          <a href="{{ site.sns.twitter }}">
-          Twitter feed</a>
-        </p>
+    <div class="container">
+      <div class="header">
+        <ul class="nav nav-pills pull-right">
+          <li><a href="{{ site.podcast.feed_url }}">Podcast URL</a></li>
+          <li><a href="{{ site.url }}">RORLab</a></li>
+          <li><a href="{{ site.sns.twitter }}">Twitter</a></li>
+          <li><a href="{{ site.sns.facebook }}">Facebook</a></li>
+        </ul>
+        
+        <h3 class="text-muted">
+          <img class="img-circle" src="/images/rorlab_logo.png" width="30px" height="30px">
+          {{ site.name }}
+        </h3>
+      </div>
+      <div class="content">
+        {{ content }}
+      </div>
+      <div class="footer">
         <p>&copy; <a href="{{ site.url }}">RORLab</a> 2013</p>
       </div>
-    </div> <!-- /container -->
+    </div>
     <script src="/js/bootstrap.min.js"></script>
   </body>
 </html>
