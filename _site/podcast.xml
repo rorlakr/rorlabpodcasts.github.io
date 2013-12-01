@@ -17,6 +17,7 @@
     <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab_logo.png" />
     <itunes:category text="Technology" />
     <itunes:category text="Education" />
+    <itunes:explicit>clean</itunes:explicit>
     
     <item>
       <title><![CDATA[ROR Lab 49-2: Rails with MongoDB (3)]]></title>
