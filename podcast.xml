@@ -21,7 +21,6 @@ layout: nil
     <itunes:image href="{{ site.podcast.image }}" />
     <itunes:category text="Technology" />
     <itunes:category text="Education" />
-    <itunes:new-feed-url>{{ site.podcast.feed_url }}</itunes:new-feed-url>
     {% for post in site.posts %}
     <item>
       <title><![CDATA[{{ post.title }}]]></title>
@@ -33,6 +32,7 @@ layout: nil
       <enclosure url="{{ post.enclosure_url }}" length="{{ post.enclosure_bytes_size }}" type="{{ post.type }}" />
       <guid isPermaLink="false">{{ post.id }}</guid>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+      <itunes:order>{{ site.posts | size | minus: forloop.index | plus: 1 }}</itunes:order>
       <itunes:duration>{{ post.duration }}</itunes:duration>
       <itunes:keywords><![CDATA[{{ site.podcast.keyword }}]]></itunes:keywords>
     </item>
