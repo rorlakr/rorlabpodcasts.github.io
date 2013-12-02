@@ -12,7 +12,7 @@ layout: nil
     <itunes:subtitle><![CDATA[{{ site.podcast.subtitle }}]]></itunes:subtitle>
     <itunes:author><![CDATA[{{ site.podcast.author }}]]></itunes:author>
     <itunes:keywords><![CDATA[{{ site.podcast.keyword }}]]></itunes:keywords>
-    <itunes:summary><![CDATA[{{ site.podcast.keyword }}]]></itunes:summary>
+    <itunes:summary><![CDATA[{{ site.podcast.description }}]]></itunes:summary>
     <description><![CDATA[{{ site.podcast.description }}]]></description>
     <itunes:owner>
       <itunes:name>{{ site.podcast.owner_name }}</itunes:name>

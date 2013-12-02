@@ -5,11 +5,11 @@
     <link>http://rorlabpodcasts.github.io/</link>
     <language>ko</language>
     <copyright><![CDATA[RORLab Podcast]]></copyright>
-    <itunes:subtitle><![CDATA[Ruby On Rails Screencast]]></itunes:subtitle>
+    <itunes:subtitle><![CDATA[RORLab, Ruby On Rails 팟캐스트]]></itunes:subtitle>
     <itunes:author><![CDATA[RORLab]]></itunes:author>
-    <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
-    <itunes:summary><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:summary>
-    <description><![CDATA[A podcast from RORLab, Ruby On Rails for newbie.]]></description>
+    <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+    <itunes:summary><![CDATA[RORLab에서는 Ruby On Rails를 처음 접하는 분들을 위해 Ruby On Rails 가이드 내용을 주로 다루며 격주로 모임을 가지고 있습니다. 모임때마다 생성되는 동영상 자료는 팟캐스트로 제공됩니다. RORLab에 대한 자세한 정보는 웹페이지 http://rorlab.org 를 참고하시기 바랍니다.]]></itunes:summary>
+    <description><![CDATA[RORLab에서는 Ruby On Rails를 처음 접하는 분들을 위해 Ruby On Rails 가이드 내용을 주로 다루며 격주로 모임을 가지고 있습니다. 모임때마다 생성되는 동영상 자료는 팟캐스트로 제공됩니다. RORLab에 대한 자세한 정보는 웹페이지 http://rorlab.org 를 참고하시기 바랍니다.]]></description>
     <itunes:owner>
       <itunes:name>ChangHoon Jeong</itunes:name>
       <itunes:email>iamseapy@gmail.com</itunes:email>
@@ -38,7 +38,7 @@
       <pubDate>Tue, 05 Nov 2013 00:00:00 GMT</pubDate>
       <itunes:order>68</itunes:order>
       <itunes:duration>45:40</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -59,7 +59,7 @@
       <pubDate>Tue, 05 Nov 2013 00:00:00 GMT</pubDate>
       <itunes:order>67</itunes:order>
       <itunes:duration>39:45</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Tue, 22 Oct 2013 00:00:00 GMT</pubDate>
       <itunes:order>66</itunes:order>
       <itunes:duration>46:19</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -101,7 +101,7 @@
       <pubDate>Tue, 22 Oct 2013 00:00:00 GMT</pubDate>
       <itunes:order>65</itunes:order>
       <itunes:duration>49:05</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -122,7 +122,7 @@
       <pubDate>Tue, 08 Oct 2013 00:00:00 GMT</pubDate>
       <itunes:order>64</itunes:order>
       <itunes:duration>57:29</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -143,7 +143,7 @@
       <pubDate>Tue, 24 Sep 2013 00:00:00 GMT</pubDate>
       <itunes:order>63</itunes:order>
       <itunes:duration>56:39</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -164,7 +164,7 @@
       <pubDate>Tue, 24 Sep 2013 00:00:00 GMT</pubDate>
       <itunes:order>62</itunes:order>
       <itunes:duration>39:57</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -185,7 +185,7 @@
       <pubDate>Tue, 10 Sep 2013 00:00:00 GMT</pubDate>
       <itunes:order>61</itunes:order>
       <itunes:duration>34:10</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -206,7 +206,7 @@
       <pubDate>Mon, 26 Aug 2013 00:00:00 GMT</pubDate>
       <itunes:order>60</itunes:order>
       <itunes:duration>40:53</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -227,7 +227,7 @@
       <pubDate>Tue, 13 Aug 2013 00:00:00 GMT</pubDate>
       <itunes:order>59</itunes:order>
       <itunes:duration></itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -248,7 +248,7 @@
       <pubDate>Tue, 30 Jul 2013 00:00:00 GMT</pubDate>
       <itunes:order>58</itunes:order>
       <itunes:duration>34:09</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -269,7 +269,7 @@
       <pubDate>Tue, 16 Jul 2013 00:00:00 GMT</pubDate>
       <itunes:order>57</itunes:order>
       <itunes:duration>44:50</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -290,7 +290,7 @@
       <pubDate>Tue, 02 Jul 2013 00:00:00 GMT</pubDate>
       <itunes:order>56</itunes:order>
       <itunes:duration>48:03</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -311,7 +311,7 @@
       <pubDate>Mon, 17 Jun 2013 00:00:00 GMT</pubDate>
       <itunes:order>55</itunes:order>
       <itunes:duration>47:14</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -332,7 +332,7 @@
       <pubDate>Tue, 04 Jun 2013 00:00:00 GMT</pubDate>
       <itunes:order>54</itunes:order>
       <itunes:duration>38:55</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -353,7 +353,7 @@
       <pubDate>Sat, 25 May 2013 00:00:00 GMT</pubDate>
       <itunes:order>53</itunes:order>
       <itunes:duration></itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -374,7 +374,7 @@
       <pubDate>Mon, 06 May 2013 00:00:00 GMT</pubDate>
       <itunes:order>52</itunes:order>
       <itunes:duration>39:45</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -395,7 +395,7 @@
       <pubDate>Mon, 06 May 2013 00:00:00 GMT</pubDate>
       <itunes:order>51</itunes:order>
       <itunes:duration>17:49</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -416,7 +416,7 @@
       <pubDate>Thu, 25 Apr 2013 00:00:00 GMT</pubDate>
       <itunes:order>50</itunes:order>
       <itunes:duration>40:39</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -437,7 +437,7 @@
       <pubDate>Thu, 25 Apr 2013 00:00:00 GMT</pubDate>
       <itunes:order>49</itunes:order>
       <itunes:duration>35:38</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -458,7 +458,7 @@
       <pubDate>Sat, 13 Apr 2013 00:00:00 GMT</pubDate>
       <itunes:order>48</itunes:order>
       <itunes:duration>26:44</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -479,7 +479,7 @@
       <pubDate>Sat, 30 Mar 2013 00:00:00 GMT</pubDate>
       <itunes:order>47</itunes:order>
       <itunes:duration></itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -500,7 +500,7 @@
       <pubDate>Sat, 16 Mar 2013 00:00:00 GMT</pubDate>
       <itunes:order>46</itunes:order>
       <itunes:duration>48:30</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -521,7 +521,7 @@
       <pubDate>Sat, 16 Mar 2013 00:00:00 GMT</pubDate>
       <itunes:order>45</itunes:order>
       <itunes:duration>25:51</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -542,7 +542,7 @@
       <pubDate>Sat, 02 Mar 2013 00:00:00 GMT</pubDate>
       <itunes:order>44</itunes:order>
       <itunes:duration></itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -563,7 +563,7 @@
       <pubDate>Sun, 17 Feb 2013 00:00:00 GMT</pubDate>
       <itunes:order>43</itunes:order>
       <itunes:duration></itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -584,7 +584,7 @@
       <pubDate>Sat, 02 Feb 2013 00:00:00 GMT</pubDate>
       <itunes:order>42</itunes:order>
       <itunes:duration>01:14:33</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -605,7 +605,7 @@
       <pubDate>Sat, 12 Jan 2013 00:00:00 GMT</pubDate>
       <itunes:order>41</itunes:order>
       <itunes:duration>42:43</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -626,7 +626,7 @@
       <pubDate>Sat, 29 Dec 2012 00:00:00 GMT</pubDate>
       <itunes:order>40</itunes:order>
       <itunes:duration>49:27</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -647,7 +647,7 @@
       <pubDate>Sat, 15 Dec 2012 00:00:00 GMT</pubDate>
       <itunes:order>39</itunes:order>
       <itunes:duration>26:57</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -668,7 +668,7 @@
       <pubDate>Sat, 01 Dec 2012 00:00:00 GMT</pubDate>
       <itunes:order>38</itunes:order>
       <itunes:duration>57:50</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -689,7 +689,7 @@
       <pubDate>Sat, 17 Nov 2012 00:00:00 GMT</pubDate>
       <itunes:order>37</itunes:order>
       <itunes:duration>43:05</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -710,7 +710,7 @@
       <pubDate>Sat, 03 Nov 2012 00:00:00 GMT</pubDate>
       <itunes:order>36</itunes:order>
       <itunes:duration>01:12:24</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -731,7 +731,7 @@
       <pubDate>Sat, 20 Oct 2012 00:00:00 GMT</pubDate>
       <itunes:order>35</itunes:order>
       <itunes:duration>52:02</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -752,7 +752,7 @@
       <pubDate>Sat, 06 Oct 2012 00:00:00 GMT</pubDate>
       <itunes:order>34</itunes:order>
       <itunes:duration>51:25</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -773,7 +773,7 @@
       <pubDate>Sat, 15 Sep 2012 00:00:00 GMT</pubDate>
       <itunes:order>33</itunes:order>
       <itunes:duration>57:18</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -794,7 +794,7 @@
       <pubDate>Sat, 15 Sep 2012 00:00:00 GMT</pubDate>
       <itunes:order>32</itunes:order>
       <itunes:duration>53:13</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -815,7 +815,7 @@
       <pubDate>Sat, 01 Sep 2012 00:00:00 GMT</pubDate>
       <itunes:order>31</itunes:order>
       <itunes:duration>51:59</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -836,7 +836,7 @@
       <pubDate>Sat, 18 Aug 2012 00:00:00 GMT</pubDate>
       <itunes:order>30</itunes:order>
       <itunes:duration>01:38:06</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -857,7 +857,7 @@
       <pubDate>Sat, 21 Jul 2012 00:00:00 GMT</pubDate>
       <itunes:order>29</itunes:order>
       <itunes:duration>01:02:18</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -878,7 +878,7 @@
       <pubDate>Sat, 07 Jul 2012 00:00:00 GMT</pubDate>
       <itunes:order>28</itunes:order>
       <itunes:duration>13:39</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -917,7 +917,7 @@
       <pubDate>Sat, 07 Jul 2012 00:00:00 GMT</pubDate>
       <itunes:order>27</itunes:order>
       <itunes:duration>12:56</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -938,7 +938,7 @@
       <pubDate>Sat, 07 Jul 2012 00:00:00 GMT</pubDate>
       <itunes:order>26</itunes:order>
       <itunes:duration>34:41</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -959,7 +959,7 @@
       <pubDate>Sat, 23 Jun 2012 00:00:00 GMT</pubDate>
       <itunes:order>25</itunes:order>
       <itunes:duration>19:05</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -980,7 +980,7 @@
       <pubDate>Sat, 23 Jun 2012 00:00:00 GMT</pubDate>
       <itunes:order>24</itunes:order>
       <itunes:duration>44:38</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -999,7 +999,7 @@
       <pubDate>Sat, 09 Jun 2012 00:00:00 GMT</pubDate>
       <itunes:order>23</itunes:order>
       <itunes:duration></itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1018,7 +1018,7 @@
       <pubDate>Sat, 26 May 2012 00:00:00 GMT</pubDate>
       <itunes:order>22</itunes:order>
       <itunes:duration></itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1037,7 +1037,7 @@
       <pubDate>Sat, 12 May 2012 00:00:00 GMT</pubDate>
       <itunes:order>21</itunes:order>
       <itunes:duration></itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1056,7 +1056,7 @@
       <pubDate>Sat, 21 Apr 2012 00:00:00 GMT</pubDate>
       <itunes:order>20</itunes:order>
       <itunes:duration></itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1077,7 +1077,7 @@
       <pubDate>Sat, 07 Apr 2012 00:00:00 GMT</pubDate>
       <itunes:order>19</itunes:order>
       <itunes:duration>59:56</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1098,7 +1098,7 @@
       <pubDate>Sat, 17 Mar 2012 00:00:00 GMT</pubDate>
       <itunes:order>18</itunes:order>
       <itunes:duration>57:59</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1119,7 +1119,7 @@
       <pubDate>Sat, 03 Mar 2012 00:00:00 GMT</pubDate>
       <itunes:order>17</itunes:order>
       <itunes:duration>01:16:11</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1140,7 +1140,7 @@
       <pubDate>Sat, 18 Feb 2012 00:00:00 GMT</pubDate>
       <itunes:order>16</itunes:order>
       <itunes:duration>01:32:05</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1161,7 +1161,7 @@
       <pubDate>Sat, 04 Feb 2012 00:00:00 GMT</pubDate>
       <itunes:order>15</itunes:order>
       <itunes:duration>01:01:37</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1182,7 +1182,7 @@
       <pubDate>Sat, 14 Jan 2012 00:00:00 GMT</pubDate>
       <itunes:order>14</itunes:order>
       <itunes:duration>25:06</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1203,7 +1203,7 @@
       <pubDate>Sat, 14 Jan 2012 00:00:00 GMT</pubDate>
       <itunes:order>13</itunes:order>
       <itunes:duration>01:05:14</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1224,7 +1224,7 @@
       <pubDate>Sat, 07 Jan 2012 00:00:00 GMT</pubDate>
       <itunes:order>12</itunes:order>
       <itunes:duration>39:31</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1245,7 +1245,7 @@
       <pubDate>Sat, 07 Jan 2012 00:00:00 GMT</pubDate>
       <itunes:order>11</itunes:order>
       <itunes:duration>51:09</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1266,7 +1266,7 @@
       <pubDate>Sat, 10 Dec 2011 00:00:00 GMT</pubDate>
       <itunes:order>10</itunes:order>
       <itunes:duration>24:18</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1287,7 +1287,7 @@
       <pubDate>Sat, 10 Dec 2011 00:00:00 GMT</pubDate>
       <itunes:order>9</itunes:order>
       <itunes:duration>27:08</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1308,7 +1308,7 @@
       <pubDate>Sat, 10 Dec 2011 00:00:00 GMT</pubDate>
       <itunes:order>8</itunes:order>
       <itunes:duration>23:16</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1329,7 +1329,7 @@
       <pubDate>Sat, 10 Dec 2011 00:00:00 GMT</pubDate>
       <itunes:order>7</itunes:order>
       <itunes:duration>23:45</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1350,7 +1350,7 @@
       <pubDate>Sat, 10 Dec 2011 00:00:00 GMT</pubDate>
       <itunes:order>6</itunes:order>
       <itunes:duration>27:56</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1371,7 +1371,7 @@
       <pubDate>Sat, 26 Nov 2011 00:00:00 GMT</pubDate>
       <itunes:order>5</itunes:order>
       <itunes:duration>06:47</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1392,7 +1392,7 @@
       <pubDate>Sat, 26 Nov 2011 00:00:00 GMT</pubDate>
       <itunes:order>4</itunes:order>
       <itunes:duration>09:58</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1413,7 +1413,7 @@
       <pubDate>Sat, 26 Nov 2011 00:00:00 GMT</pubDate>
       <itunes:order>3</itunes:order>
       <itunes:duration>09:50</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1434,7 +1434,7 @@
       <pubDate>Sat, 26 Nov 2011 00:00:00 GMT</pubDate>
       <itunes:order>2</itunes:order>
       <itunes:duration>10:02</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
     <item>
@@ -1455,7 +1455,7 @@
       <pubDate>Sat, 12 Nov 2011 00:00:00 GMT</pubDate>
       <itunes:order>1</itunes:order>
       <itunes:duration>36:55</itunes:duration>
-      <itunes:keywords><![CDATA[podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
+      <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
   </channel>
