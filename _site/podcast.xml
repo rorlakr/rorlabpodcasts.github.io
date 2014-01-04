@@ -24,8 +24,12 @@
       <title><![CDATA[ROR Lab 51-3: Securing Rails Applications (1)]]></title>
       <itunes:author><![CDATA[HyoSeong Choi(@hschoimd)]]></itunes:author>
       <itunes:subtitle><![CDATA[ROR Lab 51-3: Securing Rails Applications (1)]]></itunes:subtitle>
-      <itunes:summary><![CDATA[<p>Securing Rails Applications (1)</p><p>Securing Rails Applications 에 관한 개략적인 설명으로 진행되었습니다.</p><p>제35회 RORLab 부터는 NAVER의 지원을 받아 개최됩니다. <a href='http://developer.naver.com/wiki/pages/Community'>NAVER 커뮤니티 지원</a></p>]]></itunes:summary>
-      <description><![CDATA[<p>Securing Rails Applications (1)</p><p>Securing Rails Applications 에 관한 개략적인 설명으로 진행되었습니다.</p><p>제35회 RORLab 부터는 NAVER의 지원을 받아 개최됩니다. <a href='http://developer.naver.com/wiki/pages/Community'>NAVER 커뮤니티 지원</a></p>]]></description>
+      <itunes:summary><![CDATA[<p>Securing Rails Applications (1)</p><p>Securing Rails Applications 에 관한 개략적인 설명으로 진행되었습니다.</p><p>제35회 RORLab 부터는 NAVER의 지원을 받아 개최됩니다. <a href='http://developer.naver.com/wiki/pages/Community'>NAVER 커뮤니티 지원</a></p><div class='btn-group'>
+  <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=1hQ_1U0WrBE'>YouTube</a>
+</div>]]></itunes:summary>
+      <description><![CDATA[<p>Securing Rails Applications (1)</p><p>Securing Rails Applications 에 관한 개략적인 설명으로 진행되었습니다.</p><p>제35회 RORLab 부터는 NAVER의 지원을 받아 개최됩니다. <a href='http://developer.naver.com/wiki/pages/Community'>NAVER 커뮤니티 지원</a></p><div class='btn-group'>
+  <a class='btn btn-default btn-xs' href='https://www.youtube.com/watch?v=1hQ_1U0WrBE'>YouTube</a>
+</div>]]></description>
       <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab-logo-no-corner-1400.jpg" />
       <enclosure url="https://archive.org/download/Rorlab51/rorlab-51-3.mp4" length="438877501" type="video/mp4" />
       <guid isPermaLink="false">/2013/12/17/rorlab-51-3</guid>
