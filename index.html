@@ -12,6 +12,10 @@ title: RORLab Podcast
       </h3>
 
       {{ post.content}}
+
+      <div class="btn-group">
+        <a class="btn btn-default btn-xs" href="{{ post.enclosure_url }}">video</a>
+      </div>
     </div>
 
     {% if forloop.last == false %}
