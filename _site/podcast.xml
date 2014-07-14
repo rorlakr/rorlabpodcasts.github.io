@@ -115,11 +115,11 @@
 </div>
 ]]></description>
       <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab-logo-no-corner-1400.jpg" />
-      <enclosure url="http://archive.org/download/rorlab-64/rorlab-64-2.mp4" length="" type="video/mp4" />
+      <enclosure url="http://archive.org/download/rorlab-64/rorlab-64-2.mp4" length="528010035" type="video/mp4" />
       <guid isPermaLink="false">/2014/06/24/rorlab-64-2</guid>
       <pubDate>Tue, 24 Jun 2014 00:00:00 GMT</pubDate>
       <itunes:order>3</itunes:order>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>44:47</itunes:duration>
       <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
@@ -148,11 +148,11 @@
 </div>
 ]]></description>
       <itunes:image href="http://rorlabpodcasts.github.io/images/rorlab-logo-no-corner-1400.jpg" />
-      <enclosure url="http://archive.org/download/rorlab-64/rorlab-64-1.mp4" length="" type="video/mp4" />
+      <enclosure url="http://archive.org/download/rorlab-64/rorlab-64-1.mp4" length="180712637" type="video/mp4" />
       <guid isPermaLink="false">/2014/06/24/rorlab-64-1</guid>
       <pubDate>Tue, 24 Jun 2014 00:00:00 GMT</pubDate>
       <itunes:order>4</itunes:order>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>16:24</itunes:duration>
       <itunes:keywords><![CDATA[레일스,팟캐스트,루비,웹개발,웹,podcast,tech,rorlab,ruby,rails,ror,web,design]]></itunes:keywords>
     </item>
     
