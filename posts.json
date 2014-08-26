@@ -1,0 +1,45 @@
+---
+layout: nil
+---
+
+{
+  "info" : {
+    "title" : "{{ site.name }}",
+    "link" : "{{ site.url }}",
+    "description" : "{{ site.podcast.description }}",
+    "image" : "{{ site.podcast.image }}"
+  },
+  "data" : {
+    "count" : {{ site.posts | size }},
+    "posts" : [
+      {% assign prev_post = null %}
+      {% for post in site.posts reversed %}
+        {% if prev_post != null %}
+          {
+            "title" : "{{ prev_post.title }}",
+            "author" : "{{ prev_post.author }}",
+            "pubshlised_at" : "{{ prev_post.date | date: "%Y-%m-%d" }}",
+            "content" : {{ prev_post.content | jsonify }},
+            "video" : {
+              "url" : "{{ prev_post.enclosure_url }}",
+              "duration" : "{{ prev_post.duration }}",
+              "youtube" : "{{ prev_post.link.youtube }}"
+            }
+          },
+        {% endif %}
+        {% assign prev_post = post %}
+      {% endfor %}
+      {
+        "title" : "{{ prev_post.title }}",
+        "author" : "{{ prev_post.author }}",
+        "pubshlised_at" : "{{ prev_post.date | date: "%Y-%m-%d" }}",
+        "content" : {{ prev_post.content | jsonify }},
+        "video" : {
+          "url" : "{{ prev_post.enclosure_url }}",
+          "duration" : "{{ prev_post.duration }}",
+          "youtube" : "{{ prev_post.link.youtube }}"
+        }
+      }
+    ]
+  }
+}
