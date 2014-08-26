@@ -6,7 +6,7 @@
     "image" : "http://rorlabpodcasts.github.io/images/rorlab-logo-no-corner-1400.jpg"
   },
   "data" : {
-    "count" : 105,
+    "count" : 106,
     "posts" : [
       
       
@@ -1573,15 +1573,30 @@
         
         
       
+        
+          {
+            "title" : "ROR Lab 67-2: 레일스 어플리케이션 설정하기(4)",
+            "author" : "이한국",
+            "pubshlised_at" : "2014-08-05",
+            "content" : "<p>레일스 어플리케이션 설정하기(4)</p>\n\n<p>동영상이 준비중입니다.</p>\n\n<p>제35회 RORLab 부터는 NAVER의 지원을 받아 개최됩니다. <a href=\"http://developer.naver.com/wiki/pages/Community\">NAVER 커뮤니티 지원</a></p>\n\n<div class=\"btn-group\">\n  <a class=\"btn btn-default btn-xs\" href=\"\">YouTube</a>\n</div>\n",
+            "video" : {
+              "url" : "",
+              "duration" : "",
+              "youtube" : ""
+            }
+          },
+        
+        
+      
       {
-        "title" : "ROR Lab 67-2: 레일스 어플리케이션 설정하기(4)",
-        "author" : "이한국",
-        "pubshlised_at" : "2014-08-05",
-        "content" : "<p>레일스 어플리케이션 설정하기(4)</p>\n\n<p>동영상이 준비중입니다.</p>\n\n<p>제35회 RORLab 부터는 NAVER의 지원을 받아 개최됩니다. <a href=\"http://developer.naver.com/wiki/pages/Community\">NAVER 커뮤니티 지원</a></p>\n\n<div class=\"btn-group\">\n  <a class=\"btn btn-default btn-xs\" href=\"\">YouTube</a>\n</div>\n",
+        "title" : "ROR Lab 68-1: 외부로부터 들어오는 레일스 라우팅(2)",
+        "author" : "남승균",
+        "pubshlised_at" : "2014-08-19",
+        "content" : "<p>외부로부터 들어오는 레일스 라우팅(2)</p>\n\n<ul>\n  <li>라우트는 선언 순서가 중요</li>\n  <li>중첩 리소스(Nested Resources)</li>\n  <li>Shallow Nesting</li>\n  <li>객체로부터 경로와 URL 생성하기</li>\n  <li>더 많은 레스트풀 액션 추가하기</li>\n  <li>비-리소스풀 라우트</li>\n</ul>\n\n<p>제35회 RORLab 부터는 NAVER의 지원을 받아 개최됩니다. <a href=\"http://developer.naver.com/wiki/pages/Community\">NAVER 커뮤니티 지원</a></p>\n\n<div class=\"btn-group\">\n  <a class=\"btn btn-default btn-xs\" href=\"http://www.youtube.com/watch?v=l9KM19q7DWs\">YouTube</a>\n</div>\n",
         "video" : {
-          "url" : "",
-          "duration" : "",
-          "youtube" : ""
+          "url" : "http://archive.org/download/rorlab-68/rorlab-68-1.mp4",
+          "duration" : "44:10",
+          "youtube" : "http://www.youtube.com/watch?v=l9KM19q7DWs"
         }
       }
     ]
