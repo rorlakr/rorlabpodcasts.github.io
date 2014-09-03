@@ -28,8 +28,8 @@ layout: nil
       <title><![CDATA[{{ post.title }}]]></title>
       <itunes:author><![CDATA[{{ post.author }}]]></itunes:author>
       <itunes:subtitle><![CDATA[{{ post.title }}]]></itunes:subtitle>
-      <itunes:summary><![CDATA[{{ post.content }}]]></itunes:summary>
-      <description><![CDATA[{{ post.content }}]]></description>
+      <itunes:summary><![CDATA[{{ post.content }} {% include naver_d2.html %}]]></itunes:summary>
+      <description><![CDATA[{{ post.content }} {% include naver_d2.html %}]]></description>
       <itunes:image href="{{ site.podcast.image }}" />
       <enclosure url="{{ post.enclosure_url }}" length="{{ post.enclosure_bytes_size }}" type="{{ post.type }}" />
       <guid isPermaLink="false">{{ post.id }}</guid>
