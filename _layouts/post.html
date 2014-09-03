@@ -2,14 +2,16 @@
 layout: default
 ---
 
+{% include naver_d2.html %}
+
 <h3>
 	<a href="{{ page.url }}">{{ page.title }}</a>
 </h3>
 <div class="datepost">{{ page.date | date:"%A, %e %B %Y" }}</div>
 
 <div>
+
 	{{ content }}
-  <div class="btn-group">
-    <a class="btn btn-default btn-xs" href="{{ page.enclosure_url }}">video</a>
-  </div>
+
+  <p><a href="{{ page.enclosure_url }}" rel="nofollow">동영상 보기</a></p>
 </div>

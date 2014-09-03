@@ -3,6 +3,8 @@ layout: default
 title: RORLab Podcast
 ---
 
+{% include naver_d2.html %}
+
 <ul>
   {% for post in site.posts %}
     <div class="post">
@@ -13,9 +15,7 @@ title: RORLab Podcast
 
       {{ post.content}}
 
-      <div class="btn-group">
-        <a class="btn btn-default btn-xs" href="{{ post.enclosure_url }}">video</a>
-      </div>
+      <p><a href="{{ post.enclosure_url }}" rel="nofollow">동영상 보기</a></p>
     </div>
 
     {% if forloop.last == false %}
