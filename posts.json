@@ -19,7 +19,7 @@ layout: nil
             "id" : "{{ post.id }}",
             "title" : "{{ prev_post.title }}",
             "author" : "{{ prev_post.author }}",
-            "pubshlised_at" : "{{ prev_post.date | date: "%Y-%m-%d" }}",
+            "published_at" : "{{ prev_post.date | date: "%Y-%m-%d" }}",
             "content" : {{ prev_post.content | jsonify }},
             "video" : {
               "url" : "{{ prev_post.enclosure_url }}",
@@ -35,7 +35,7 @@ layout: nil
         "id" : "{{ post.id }}",
         "title" : "{{ prev_post.title }}",
         "author" : "{{ prev_post.author }}",
-        "pubshlised_at" : "{{ prev_post.date | date: "%Y-%m-%d" }}",
+        "published_at" : "{{ prev_post.date | date: "%Y-%m-%d" }}",
         "content" : {{ prev_post.content | jsonify }},
         "video" : {
           "url" : "{{ prev_post.enclosure_url }}",
