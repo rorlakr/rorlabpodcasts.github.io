@@ -24,7 +24,7 @@ layout: nil
             "video" : {
               "url" : "{{ prev_post.enclosure_url }}",
               "duration" : "{{ prev_post.duration }}",
-              "size" : {{ post.enclosure_bytes_size }},
+              "size" : "{{ post.enclosure_bytes_size }}",
               "youtube" : "{{ prev_post.link.youtube }}"
             }
           },
@@ -40,7 +40,7 @@ layout: nil
         "video" : {
           "url" : "{{ prev_post.enclosure_url }}",
           "duration" : "{{ prev_post.duration }}",
-          "size" : {{ post.enclosure_bytes_size }},
+          "size" : "{{ post.enclosure_bytes_size }}",
           "youtube" : "{{ prev_post.link.youtube }}"
         }
       }
