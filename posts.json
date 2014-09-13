@@ -16,7 +16,7 @@ layout: nil
       {% for post in site.posts reversed %}
         {% if prev_post != null %}
           {
-            "id" : "{{ post.id }}",
+            "id" : "{{ prev_post.id }}",
             "title" : "{{ prev_post.title }}",
             "author" : "{{ prev_post.author }}",
             "published_at" : "{{ prev_post.date | date: "%Y-%m-%d" }}",
@@ -24,7 +24,7 @@ layout: nil
             "video" : {
               "url" : "{{ prev_post.enclosure_url }}",
               "duration" : "{{ prev_post.duration }}",
-              "size" : "{{ post.enclosure_bytes_size }}",
+              "size" : "{{ prev_post.enclosure_bytes_size }}",
               "youtube" : "{{ prev_post.link.youtube }}"
             }
           },
@@ -32,7 +32,7 @@ layout: nil
         {% assign prev_post = post %}
       {% endfor %}
       {
-        "id" : "{{ post.id }}",
+        "id" : "{{ prev_post.id }}",
         "title" : "{{ prev_post.title }}",
         "author" : "{{ prev_post.author }}",
         "published_at" : "{{ prev_post.date | date: "%Y-%m-%d" }}",
@@ -40,7 +40,7 @@ layout: nil
         "video" : {
           "url" : "{{ prev_post.enclosure_url }}",
           "duration" : "{{ prev_post.duration }}",
-          "size" : "{{ post.enclosure_bytes_size }}",
+          "size" : "{{ prev_post.enclosure_bytes_size }}",
           "youtube" : "{{ prev_post.link.youtube }}"
         }
       }
