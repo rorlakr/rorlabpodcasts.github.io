@@ -6,7 +6,7 @@
     "image" : "http://rorlabpodcasts.github.io/images/rorlab-logo-no-corner-1400.jpg"
   },
   "data" : {
-    "count" : 108,
+    "count" : 109,
     "posts" : [
       
       
@@ -1832,17 +1832,34 @@
         
         
       
+        
+          {
+            "id" : "/2014/09/02/rorlab-69-2",
+            "title" : "ROR Lab 69-2: 레일스 어플리케이션 설정하기(5)",
+            "author" : "이한국",
+            "published_at" : "2014-09-02",
+            "content" : "<p>\n레일스 어플리케이션 설정중 ActiveRecord에 관한 이야기\n<br />\n</p>\n\n<p>\n  <ul>\n    \n      <li>\n        i18n 설정\n      </li>\n    \n      <li>\n        ActiveRecord 테이블 이름 prefix, suffix\n      </li>\n    \n      <li>\n        ActiveRecord 테이블 이름 복수형을 단수형을 사용하도록 수정\n      </li>\n    \n      <li>\n        ActiveRecord 기본 타임존(:utc, :local)\n      </li>\n    \n      <li>\n        ActiveRecord schema_format(:ruby, :sql)\n      </li>\n    \n      <li>\n        ActiveRecord migration 파일 네이밍 포맷\n      </li>\n    \n      <li>\n        ActiveRecord 데이터에 대한 낙관적인 잠금, 비관적인 잠금\n      </li>\n    \n  </ul>\n</p>\n\n<p><a href=\"http://rorlab.org\" rel=\"nofollow\">RORLab 홈페이지</a></p>\n\n<p><a href=\"http://youtu.be/77amOp0SToc\" rel=\"nofollow\">YouTube에서 보기</a></p>\n",
+            "video" : {
+              "url" : "http://archive.org/download/rorlab-69/rorlab-69-2.mp4",
+              "duration" : "17:56",
+              "size" : "116121542",
+              "youtube" : "http://youtu.be/77amOp0SToc"
+            }
+          },
+        
+        
+      
       {
-        "id" : "/2014/09/02/rorlab-69-2",
-        "title" : "ROR Lab 69-2: 레일스 어플리케이션 설정하기(5)",
-        "author" : "이한국",
-        "published_at" : "2014-09-02",
-        "content" : "<p>\n레일스 어플리케이션 설정중 ActiveRecord에 관한 이야기\n<br />\n</p>\n\n<p>\n  <ul>\n    \n      <li>\n        i18n 설정\n      </li>\n    \n      <li>\n        ActiveRecord 테이블 이름 prefix, suffix\n      </li>\n    \n      <li>\n        ActiveRecord 테이블 이름 복수형을 단수형을 사용하도록 수정\n      </li>\n    \n      <li>\n        ActiveRecord 기본 타임존(:utc, :local)\n      </li>\n    \n      <li>\n        ActiveRecord schema_format(:ruby, :sql)\n      </li>\n    \n      <li>\n        ActiveRecord migration 파일 네이밍 포맷\n      </li>\n    \n      <li>\n        ActiveRecord 데이터에 대한 낙관적인 잠금, 비관적인 잠금\n      </li>\n    \n  </ul>\n</p>\n\n<p><a href=\"http://rorlab.org\" rel=\"nofollow\">RORLab 홈페이지</a></p>\n\n<p><a href=\"http://youtu.be/77amOp0SToc\" rel=\"nofollow\">YouTube에서 보기</a></p>\n",
+        "id" : "/2014/09/16/rorlab-70-1",
+        "title" : "ROR Lab 70-1: Working with JavaScript in Rails",
+        "author" : "남승균",
+        "published_at" : "2014-09-16",
+        "content" : "<p>\n레일스에서 자바스크립트 사용하는것에 대한 이야기\n<br />\n</p>\n\n<p>\n  <ul>\n    \n      <li>\n        Adaptive Path가 작성한 블로그 글에서 처음으로 Ajax 용어 등장\n      </li>\n    \n      <li>\n        Unobstrusive Javascript 1: 자바스크립트를 HTML 마크업으로 부터 분리. 2: 자바스크립트가 실행되지 않더라도 컨텐츠는 사용가능해야한다. 3: HTML의 접근성을 해치지 않아야한다.\n      </li>\n    \n      <li>\n        레일스 Ajax 헬퍼\n      </li>\n    \n      <li>\n        Server-Side Concerns\n      </li>\n    \n      <li>\n        Turbolinks\n      </li>\n    \n  </ul>\n</p>\n\n<p><a href=\"http://rorlab.org\" rel=\"nofollow\">RORLab 홈페이지</a></p>\n\n<p><a href=\"\" rel=\"nofollow\">YouTube에서 보기</a></p>\n",
         "video" : {
-          "url" : "http://archive.org/download/rorlab-69/rorlab-69-2.mp4",
-          "duration" : "17:56",
-          "size" : "116121542",
-          "youtube" : "http://youtu.be/77amOp0SToc"
+          "url" : "http://archive.org/download/rorlab-70/rorlab-70-1.mp4",
+          "duration" : "",
+          "size" : "0",
+          "youtube" : ""
         }
       }
     ]

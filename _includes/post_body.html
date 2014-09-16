@@ -1,0 +1,18 @@
+<p>
+{{ page.summary }}
+<br/>
+</p>
+
+<p>
+  <ul>
+    {% for note in page.show_notes %}
+      <li>
+        {{ note }}
+      </li>
+    {% endfor %}
+  </ul>
+</p>
+
+<p><a href="http://rorlab.org" rel="nofollow">RORLab 홈페이지</a></p>
+
+<p><a href="{{ page.link.youtube }}" rel="nofollow">YouTube에서 보기</a></p>
