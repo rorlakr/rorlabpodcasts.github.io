@@ -1854,9 +1854,9 @@
         "title" : "ROR Lab 70-1: Working with JavaScript in Rails",
         "author" : "남승균",
         "published_at" : "2014-09-16",
-        "content" : "<p>\n레일스에서 자바스크립트 사용하는것에 대한 이야기\n<br />\n</p>\n\n<p>\n  <ul>\n    \n      <li>\n        Adaptive Path가 작성한 블로그 글에서 처음으로 Ajax 용어 등장\n      </li>\n    \n      <li>\n        Unobstrusive Javascript 1: 자바스크립트를 HTML 마크업으로 부터 분리. 2: 자바스크립트가 실행되지 않더라도 컨텐츠는 사용가능해야한다. 3: HTML의 접근성을 해치지 않아야한다.\n      </li>\n    \n      <li>\n        레일스 Ajax 헬퍼\n      </li>\n    \n      <li>\n        Server-Side Concerns\n      </li>\n    \n      <li>\n        Turbolinks\n      </li>\n    \n  </ul>\n</p>\n\n<p><a href=\"http://rorlab.org\" rel=\"nofollow\">RORLab 홈페이지</a></p>\n\n<p><a href=\"\" rel=\"nofollow\">YouTube에서 보기</a></p>\n",
+        "content" : "<p>\n레일스에서 자바스크립트 사용하는것에 대한 이야기\n<br />\n</p>\n\n<p>\n  <ul>\n    \n      <li>\n        동영상은 준비중입니다.\n      </li>\n    \n      <li>\n        Adaptive Path가 작성한 블로그 글에서 처음으로 Ajax 용어 등장\n      </li>\n    \n      <li>\n        Unobstrusive Javascript 1: 자바스크립트를 HTML 마크업으로 부터 분리. 2: 자바스크립트가 실행되지 않더라도 컨텐츠는 사용가능해야한다. 3: HTML의 접근성을 해치지 않아야한다.\n      </li>\n    \n      <li>\n        레일스 Ajax 헬퍼\n      </li>\n    \n      <li>\n        Server-Side Concerns\n      </li>\n    \n      <li>\n        Turbolinks\n      </li>\n    \n  </ul>\n</p>\n\n<p><a href=\"http://rorlab.org\" rel=\"nofollow\">RORLab 홈페이지</a></p>\n\n<p><a href=\"\" rel=\"nofollow\">YouTube에서 보기</a></p>\n",
         "video" : {
-          "url" : "http://archive.org/download/rorlab-70/rorlab-70-1.mp4",
+          "url" : "",
           "duration" : "",
           "size" : "0",
           "youtube" : ""
