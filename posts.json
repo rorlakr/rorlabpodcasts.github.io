@@ -17,10 +17,12 @@ layout: nil
         {% if prev_post != null %}
           {
             "id" : "{{ prev_post.id }}",
-            "title" : "{{ prev_post.title }}",
-            "author" : "{{ prev_post.author }}",
+            "title" : {{ prev_post.title | jsonify }},
+            "author" : {{ prev_post.author | jsonify }},
             "published_at" : "{{ prev_post.date | date: "%Y-%m-%d" }}",
             "content" : {{ prev_post.content | jsonify }},
+            "summary" : {{ prev_post.summary | jsonify }},
+            "show_notes" : {{ prev_post.show_notes | jsonify }},
             "video" : {
               "url" : "{{ prev_post.enclosure_url }}",
               "duration" : "{{ prev_post.duration }}",
@@ -33,10 +35,12 @@ layout: nil
       {% endfor %}
       {
         "id" : "{{ prev_post.id }}",
-        "title" : "{{ prev_post.title }}",
-        "author" : "{{ prev_post.author }}",
+        "title" : {{ prev_post.title | jsonify }},
+        "author" : {{ prev_post.author | jsonify }},
         "published_at" : "{{ prev_post.date | date: "%Y-%m-%d" }}",
         "content" : {{ prev_post.content | jsonify }},
+        "summary" : {{ prev_post.summary | jsonify }},
+        "show_notes" : {{ prev_post.show_notes | jsonify }},
         "video" : {
           "url" : "{{ prev_post.enclosure_url }}",
           "duration" : "{{ prev_post.duration }}",
